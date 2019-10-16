@@ -1,0 +1,32 @@
+@import url( <link href="https://fonts.googleapis.com/css?family=Hind+Siliguri|Lobster&display=swap" rel="stylesheet">);
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+    font-family:'Hind Siliguri', sans-serif;
+    font-size : 15px;
+    text-justify : center;
+    margin: 0px;
+    line-height: 1.2;
+}
+
+h1{ 
+ 	font-family:'Hind Siliguri', sans-serif;
+ 	font-size: 30px; 
+ 	font-weight: bold;
+ 	text-justify: center;
+ 	text-align: center;
+ }
+
+h2, h3{ 
+ 	font-family:'Hind Siliguri', sans-serif;
+ 	font-size: 24px; 
+ 	text-align: center;
+ }
+
+a{
+	text-decoration: none;
+}
